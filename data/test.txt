@@ -1,0 +1,1 @@
+Add the image folders and the public.csv file in this folder

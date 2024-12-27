@@ -1,0 +1,11 @@
+# Data Paths
+csv_path: './data/public.csv'                        #path for the csv file
+feature:  './data.feature.npy'
+label:   './data/label.npy'
+
+# Image Folders
+globally_sclerotic_folder: './data/globally_sclerotic_glomeruli'                    
+non_globally_sclerotic_folder: './data/non_globally_sclerotic_glomeruli'
+
+# Model Path
+model_path: './models/best_model.pth'
